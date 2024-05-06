@@ -11,3 +11,16 @@
 如发现相关类型调用API的用户，做限速处理！请见谅！！！！！！！
 
 使用方法：将 api.openai.com 替换成 free.scvn.cn 即可，其他渠道同理。
+
+
+
+公益API模型
+OoenAI	Moonshot	零一万物	讯飞星火
+gpt-3.5-turbo      	moonshot-v1-8k	  yi-34b-chat-0205  	SparkDesk-v1.1
+gpt-3.5-turbo-0125	moonshot-v1-32k	  yi-34b-chat-200k	  SparkDesk-v2.1
+gpt-3.5-turbo-0301	moonshot-v1-128k	yi-vl-plus	        SparkDesk-v3.1
+gpt-3.5-turbo-0613			                                                   SparkDesk-v3.5
+gpt-3.5-turbo-1106		          	                                         SparkDeskV2
+gpt-3.5-turbo-16k		            	                                          SparkDeskV3
+gpt-3.5-turbo-16k-0613			
+gpt-3.5-turbo-instruct			
